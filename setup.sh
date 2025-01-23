@@ -2,7 +2,7 @@
 
 # Variables
 REPO_URL="https://github.com/Duskmate/HF-B-P-Q-2.git"
-TARGET_DIR="$(pwd)/Blockchain-Playground"
+TARGET_DIR="$(pwd)"
 
 # Clone the repository
 echo "Cloning repository from $REPO_URL..."
