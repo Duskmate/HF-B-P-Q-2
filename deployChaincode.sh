@@ -1,5 +1,5 @@
 export CORE_PEER_TLS_ENABLED=true
-# export ORDERER_CA=${PWD}/artifacts/channel/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
+export ORDERER_CA=${PWD}/artifacts/channel/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
 export PEER0_BANK_CA=${PWD}/artifacts/channel/crypto-config/peerOrganizations/bank.example.com/peers/peer0.bank.example.com/tls/ca.crt
 export PEER0_INVESTMENTFIRM_CA=${PWD}/artifacts/channel/crypto-config/peerOrganizations/investmentfirm.example.com/peers/peer0.investmentfirm.example.com/tls/ca.crt
 export PEER0_CLEARINGHOUSE_CA=${PWD}/artifacts/channel/crypto-config/peerOrganizations/clearinghouse.example.com/peers/peer0.clearinghouse.example.com/tls/ca.crt
