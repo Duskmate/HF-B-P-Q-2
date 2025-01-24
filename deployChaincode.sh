@@ -250,16 +250,18 @@ chaincodeQuery() {
 # chaincodeQuery
 
 # Run this function if you add any new dependency in chaincode
-# presetup
+presetup
 
-# packageChaincode
-# installChaincode
+packageChaincode
+installChaincode
 
-# queryInstalled
-# approveForMyBank
+queryInstalled
+approveForMyBank
 # checkCommitReadyness
-# approveForMyInvestmentFirm
+approveForMyInvestmentFirm
 # checkCommitReadyness
+approveForMyClearingHouse
+checkCommitReadyness
 
 # commitChaincodeDefination
 # queryCommitted
