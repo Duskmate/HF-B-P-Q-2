@@ -111,8 +111,8 @@ updateAnchorPeers(){
 
 # updateAnchorPeers
 
-# createChannel
-# sleep 3
-# joinChannel
-# sleep 2
-# updateAnchorPeers
+createChannel
+sleep 3
+joinChannel
+sleep 2
+updateAnchorPeers
