@@ -263,11 +263,11 @@ approveForMyInvestmentFirm
 approveForMyClearingHouse
 checkCommitReadyness
 
-# commitChaincodeDefination
-# queryCommitted
-# chaincodeInvokeInit
+commitChaincodeDefination
+queryCommitted
+chaincodeInvokeInit
 
-# sleep 5
-# chaincodeInvoke
-# sleep 3
-# chaincodeQuery
+sleep 5
+chaincodeInvoke
+sleep 3
+chaincodeQuery
